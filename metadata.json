@@ -1,0 +1,6 @@
+{
+  "name": "C & C++ Studio",
+  "description": "Interactive C and C++ compiler and IDE with real-time error highlighting, colorful syntax highlighting, and integrated terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
